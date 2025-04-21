@@ -1,0 +1,12 @@
+.navegacion{
+    background-color: aqua;
+}
+
+.titulo {
+    display: flex;
+    border: 1px;
+    border-color: red;
+    border-radius: 15px;
+    background-color: black;
+    color: red;
+}
